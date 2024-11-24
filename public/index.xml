@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>http://localhost:1313/</link><description>Recent content on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>teruteku</title><link>http://localhost:1313/hugo-site/</link><description>Recent content on teruteku</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/hugo-site/index.xml" rel="self" type="application/rss+xml"/><item><title>Overview</title><link>http://localhost:1313/hugo-site/docs/pdf_deskew_tool/overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/hugo-site/docs/pdf_deskew_tool/overview/</guid><description>&lt;h1 id="pdf-deskew-tool">
+ PDF Deskew Tool
+ &lt;a class="anchor" href="#pdf-deskew-tool">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="overview">
+ Overview
+ &lt;a class="anchor" href="#overview">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;strong>PDF Deskew Tool&lt;/strong> is a PDF editing tool designed to enhance the quality and appearance of scanned documents. With this app, you can effortlessly fix distortions from scanning, center-align content, and remove unnecessary blank spaces to create polished PDFs.&lt;/p>
+&lt;h4 id="features">
+ Features
+ &lt;a class="anchor" href="#features">#&lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>Automatic Distortion Correction&lt;/strong>&lt;br>
+Straightens scanned documents for a professional look.&lt;/li>
+&lt;li>&lt;strong>Centered Content Alignment&lt;/strong>&lt;br>
+Ensures document content is neatly arranged for better readability.&lt;/li>
+&lt;li>&lt;strong>Blank Space Removal&lt;/strong>&lt;br>
+Cuts out excess margins for a compact and clean PDF.&lt;/li>
+&lt;/ul>
+&lt;p>This app is perfect for students, professionals, and anyone looking to refine their scanned documents. Download &amp;ldquo;[App Name]&amp;rdquo; today and transform your scans into beautifully organized PDFs!&lt;/p></description></item><item><title>Usage</title><link>http://localhost:1313/hugo-site/docs/pdf_deskew_tool/usage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/hugo-site/docs/pdf_deskew_tool/usage/</guid><description>&lt;p>hogeng&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>iumo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>ijoij&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>
+&lt;p>ijoij&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>oijoij&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Privacy Policy</title><link>http://localhost:1313/hugo-site/docs/pdf_deskew_tool/privacy_policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/hugo-site/docs/pdf_deskew_tool/privacy_policy/</guid><description>&lt;h1 id="privacy-policy">
+ Privacy Policy
+ &lt;a class="anchor" href="#privacy-policy">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;strong>Last Updated: 24/11/2024&lt;/strong>&lt;/p>
+&lt;p>PDF Deskew Tool (hereinafter referred to as &amp;ldquo;the App&amp;rdquo;) does not collect any personal information from users. This policy explains our privacy practices for the App.&lt;/p>
+&lt;h4 id="1-collection-of-personal-information">
+ 1. Collection of Personal Information
+ &lt;a class="anchor" href="#1-collection-of-personal-information">#&lt;/a>
+&lt;/h4>
+&lt;p>The App does not collect any personal information, such as names, addresses, email addresses, or phone numbers, from users.&lt;/p>
+&lt;h4 id="2-use-of-information">
+ 2. Use of Information
+ &lt;a class="anchor" href="#2-use-of-information">#&lt;/a>
+&lt;/h4>
+&lt;p>The App does not collect, use, or store any personal or sensitive data in any form.&lt;/p></description></item></channel></rss>
